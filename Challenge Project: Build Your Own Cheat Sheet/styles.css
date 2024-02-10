@@ -1,0 +1,29 @@
+table{
+    width: max-content;
+    background-color: orange;
+    border: 1px;
+    border-color: black;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
+
+body{
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+thead{
+    background-color: chocolate;
+}
+
+h1,
+h2{
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    vertical-align: text-top;
+  }
